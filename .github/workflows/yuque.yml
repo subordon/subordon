@@ -33,6 +33,8 @@ jobs:
         yuque-doc-public-only: true
         # Which file to write
         yuque-output-file: README.md
+        # template filw
+        yuque-template-file: README.yuque.template.md
 
     - name: Commit and push if changed
       run: |-
