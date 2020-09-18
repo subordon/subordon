@@ -26,7 +26,7 @@ jobs:
       uses: RaoHai/yuque2Readme@1.0.2
       with:
         # secrets.YUQUE_TOKEN. 语雀的 token，去 https://www.yuque.com/settings/tokens 里找。需要读取你的知识库和文档。
-        yuque-token: ${{secrets.YUQUE_TOKEN}}
+        yuque-token: ${{secrets.YUEQUE_TOKEN}}
         # 填你自己的空间标识。比如语雀的博客是： `yuque/blog`
         yuque-namespace: bordon/blog
         # 是否只列出已发布的文章
