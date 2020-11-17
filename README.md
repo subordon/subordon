@@ -4,7 +4,7 @@
 
 <h4> Latest Blog Posts: </h4>
 
-  - [centos8 安装Docker ( 11-12 · 0 颗稻谷)](https://yuque.com/bordon/blog/si614q)
+  - [centos8 安装Docker ( 11-12 · 7 颗稻谷)](https://yuque.com/bordon/blog/si614q)
   - [基本引用类型 ( 09-18 · 0 颗稻谷)](https://yuque.com/bordon/blog/ny150b)
 
 
